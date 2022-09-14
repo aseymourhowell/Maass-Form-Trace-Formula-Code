@@ -17,7 +17,7 @@ The files are as follows:
 
 The only non-hard coded input to each of these files is the value d, which is the power to raise the test function.
 
-tracecomp.c and maasscomp.c both rely on the prime factorisation library by Andrew Booker: https://github.com/arbooker/factor64
+tracecomp.c and maasscomp.c both rely on the prime factorisation library by Andrew Booker: https://github.com/arbooker/factor64 .
 They also rely on the C-library [ARB](https://arblib.org/)
 
 The code in this state is not really meant to be easily useable, and more to use as a guidance if you wish to implement this algorithm yourself.
